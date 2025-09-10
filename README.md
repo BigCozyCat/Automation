@@ -1,2 +1,2 @@
 # Automation
-Automate workflows and save hours daily.
+Automate jobs and save hours daily.
